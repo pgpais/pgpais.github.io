@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "pgpais.github.io/static/css/main.5bc02c3d.chunk.css",
-    "main.js": "pgpais.github.io/static/js/main.e5629947.chunk.js",
-    "main.js.map": "pgpais.github.io/static/js/main.e5629947.chunk.js.map",
+    "main.js": "pgpais.github.io/static/js/main.b64f82b5.chunk.js",
+    "main.js.map": "pgpais.github.io/static/js/main.b64f82b5.chunk.js.map",
     "runtime-main.js": "pgpais.github.io/static/js/runtime-main.62940487.js",
     "runtime-main.js.map": "pgpais.github.io/static/js/runtime-main.62940487.js.map",
     "static/js/2.860df76f.chunk.js": "pgpais.github.io/static/js/2.860df76f.chunk.js",
     "static/js/2.860df76f.chunk.js.map": "pgpais.github.io/static/js/2.860df76f.chunk.js.map",
     "index.html": "pgpais.github.io/index.html",
-    "precache-manifest.778e7c7ba57152c589d46baeedfc8f59.js": "pgpais.github.io/precache-manifest.778e7c7ba57152c589d46baeedfc8f59.js",
+    "precache-manifest.f294d9b20f5761d084c95b1b52e7364b.js": "pgpais.github.io/precache-manifest.f294d9b20f5761d084c95b1b52e7364b.js",
     "service-worker.js": "pgpais.github.io/service-worker.js",
     "static/css/main.5bc02c3d.chunk.css.map": "pgpais.github.io/static/css/main.5bc02c3d.chunk.css.map",
     "static/js/2.860df76f.chunk.js.LICENSE.txt": "pgpais.github.io/static/js/2.860df76f.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.62940487.js",
     "static/js/2.860df76f.chunk.js",
     "static/css/main.5bc02c3d.chunk.css",
-    "static/js/main.e5629947.chunk.js"
+    "static/js/main.b64f82b5.chunk.js"
   ]
 }
