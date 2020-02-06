@@ -3,6 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 import {Breadcrumbs, Link} from "@material-ui/core";
 import {Switch, Route, BrowserRouter as Router, Link as RouterLink} from 'react-router-dom';
+import Home from "./Home/Home";
 
 const App = () => {
   return <div className="App">
@@ -13,7 +14,7 @@ const App = () => {
                   </div>
                   <Breadcrumbs className="Header-nav">
                       <RouterLink to={"/"}>
-                          Home
+                          <Link>Home</Link>
                       </RouterLink>
                       <RouterLink to={"/about"}>
                           About me
@@ -43,8 +44,6 @@ const App = () => {
       <h1> This page is under development. Check back later.</h1>
   </div>;
 };
-
-const Home = () => <div>Home</div>
 
 const About = () => <div>About</div>
 

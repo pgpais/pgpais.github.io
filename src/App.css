@@ -14,37 +14,31 @@
 }
 
 .Header-name{
-  padding-top: 50px;
-  padding-left: 100px;
-  float:left;
-  align-content: flex-start;
-  display: inline-block;
-  max-width: 500px;
+  display: inline-flex;
+  width:50vw;
+}
+
+a{
+  color: white;
+  text-decoration: none;
 }
 
 .MuiBreadcrumbs-root{
+  color: white;
   text-align: center;
-  padding-top: 50px;
-  padding-right: 100px;
-  float: right;
-  max-width: 75%;
+  width: 50vw;
   display: inline-flex;
 }
 
 .App-header {
   background-color: #282c34;
-  min-height: 200px;
   width: 100vw;
-  display: inline-block;
-  flex-direction: column;
-  align-items: flex-end;
-  justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
 }
 
 .App-link {
-  color: #61dafb;
+  color: #f4fbf3;
 }
 
 @keyframes App-logo-spin {
