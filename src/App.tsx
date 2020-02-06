@@ -21,12 +21,18 @@ const App = () => {
                       <RouterLink to={"/projects"}>
                           Projects
                       </RouterLink>
+                      <RouterLink to={"/contact"}>
+                          Contact me
+                      </RouterLink>
                   </Breadcrumbs>
               </header>
 
               <Switch>
                   <Route path="/about">
                       <About/>
+                  </Route>
+                  <Route path="/contact">
+                      <Contact/>
                   </Route>
                   <Route path="/">
                       <Home/>
@@ -41,5 +47,10 @@ const App = () => {
 const Home = () => <div>Home</div>
 
 const About = () => <div>About</div>
+
+const Contact = () =>
+    <div>
+        Email: <a href={"mailto:ppais95@gmail.com"}>ppais95@gmail.com</a>
+    </div>
 
 export default App;
