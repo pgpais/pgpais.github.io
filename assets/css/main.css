@@ -83,7 +83,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #fff;
+		background: rgb(157, 148, 136);
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -1759,7 +1759,7 @@ input, select, textarea {
 	}
 
 	header p {
-		color: #aaa;
+		color: #323739;
 		position: relative;
 		margin: 0 0 1.6875em 0;
 	}
@@ -2653,7 +2653,7 @@ input, select, textarea {
 /* Features */
 
 	.features article {
-		border-top: solid 3px #f4f4f4;
+		border-top: solid 3px #333739;
 		margin-bottom: 2.25em;
 		padding-top: 2.25em;
 	}
@@ -2700,7 +2700,7 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #434343;
+		background: #323739;
 		color: #f2971b;
 		height: 100%;
 		overflow-y: auto;
@@ -2807,7 +2807,7 @@ input, select, textarea {
 					}
 
 						#header > nav ul li a.active {
-							background: #fff;
+							background: #181a1b;
 							color: #f2971b !important;
 						}
 
@@ -2818,14 +2818,14 @@ input, select, textarea {
 /* Wrapper */
 
 	#wrapper {
-		background: #fff;
+		background: #181a1b;
 		padding-right: 23em;
 	}
 
 /* Main */
 
 	#main > section {
-		border-top: solid 6px #f4f4f4;
+		border-top: solid 6px #333739;
 	}
 
 		#main > section > .container {
@@ -2839,7 +2839,7 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		background: #fafafa;
+		background: #1b1d1e;
 		border-top: 0;
 		color: #c0c0c0;
 		overflow: hidden;
