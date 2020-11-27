@@ -8,6 +8,7 @@
 */
 
 .caption {
+	text-align: center;
 	font-size: 50%;
 }
 
@@ -2676,6 +2677,7 @@ input, select, textarea {
 
 			.features article .image img {
 				display: block;
+				max-height: 1%;
 				width: 100%;
 			}
 
